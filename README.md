@@ -11,4 +11,7 @@ Link for Data : [Data](https://www.kaggle.com/mathurinache/goemotions)
 The Big data problem I have choosen is to extract the overall admiration rate for each author.
 
 # Data story 
-The output data mainly narrates about the differnt authors and their count in the admiration emotion .The detailed analysis is shown in the form of the graph.
+The output data mainly narrates about the differnt authors and their count in the admiration emotion .The detailed analysis is shown in the form of the graph.In the below graph we can clearly see that admiration level for each author.
+
+
+<img src="Capture.PNG" alt="drawing"  style="border-radius:50%" />
