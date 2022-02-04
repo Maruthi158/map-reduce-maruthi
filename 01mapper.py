@@ -12,5 +12,6 @@ for line in f:
         date, time, location, dept, amount, payType = dataList  #assign names
         print ("{0}\t{1}".format(location, amount))
         o.write("{0}\t{1}\n".format(location, amount))
+        # o.write("{0}\t{1}\n".format(amount,location))
 f.close()
 o.close()
