@@ -2,16 +2,16 @@
 Hello I am practising map reduce
 
 # Type of Data 
-The data I have choosen for this assigment is about the carefully curated comments extracted from Reddit with human annotations to 27 emotion categories or Neutral.The data consists of the of the various details such as author and their respective comments,and their respective human related emotion and their rating.The Data totally consists of 37 columns and count of 21126 records.I have extracted this data from Kaggle.
+The data I have choosen for this assigment is about the covid 19 dataset for corana virus pandameic.The data primarly consists of various factors related to covid 19 such as total_cases,new_cases and many more.The data set I have choosen consists of 67 different data columns with the continent,respective locations and many more.The dataset consists of 155709 records.
 
-Link for Data : [Data](https://www.kaggle.com/mathurinache/goemotions)
+Link for Data : [Data](https://www.kaggle.com/georgesaavedra/covid19-dataset)
 
 # Big Data problem
 
-The Big data problem I have choosen is to extract the  admiration rates for each author.
+The Big data problem I have choosen is to extract the  total cases of covid-19 per each continent.
 
 # Data story 
-The output data mainly narrates about the differnt authors and their count in the admiration emotion .The detailed analysis is shown in the form of the graph.In the below graph we can clearly see that admiration level for each author.Similar to the admiration we can map the authors and their respective ratings with other 27 human emotions as listed in the data file in the similar but i choose to implement based on the admiration rate
+I have analyzed the data of covid-19 across all the continents and the visualization presented below clearly represents the total number of cases across each continent.This gives a clear explanation of which continent has highest number of cases and which has lowest.
 
 
 <img src="Capture.PNG" alt="drawing"  style="border-radius:50%" />
