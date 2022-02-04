@@ -8,7 +8,7 @@ Link for Data : [Data](https://www.kaggle.com/mathurinache/goemotions)
 
 # Big Data problem
 
-The Big data problem I have choosen is to extract the overall admiration rate for each author.
+The Big data problem I have choosen is to extract the  admiration rates for each author.
 
 # Data story 
 The output data mainly narrates about the differnt authors and their count in the admiration emotion .The detailed analysis is shown in the form of the graph.In the below graph we can clearly see that admiration level for each author.Similar to the admiration we can map the authors and their respective ratings with other 27 human emotions as listed in the data file in the similar but i choose to implement based on the admiration rate
