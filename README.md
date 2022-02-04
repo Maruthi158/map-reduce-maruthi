@@ -14,4 +14,4 @@ The Big data problem I have choosen is to extract the  total cases of covid-19 p
 I have analyzed the data of covid-19 across all the continents and the visualization presented below clearly represents the total number of cases across each continent.This gives a clear explanation of which continent has highest number of cases and which has lowest.
 
 
-<img src="Capture.PNG" alt="drawing"  style="border-radius:50%" />
+<img src="Capture1.PNG" alt="drawing"  style="border-radius:50%" />
