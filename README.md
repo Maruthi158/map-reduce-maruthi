@@ -12,7 +12,7 @@ The Big data problem I have choosen is to extract the  total cases of covid-19 p
 
 # Commands I have used in powershell to obtain the final result
 
-cat owid-covid-data.csv | Python A1mapper.py | sort | Python A3reducer.py > maruthifinaloutput.txt
+_cat owid-covid-data.csv | Python A1mapper.py | sort | Python A3reducer.py > maruthifinaloutput.txt_
 
 This command will open the data file using cat command and parse the file data as input to mapper and result is passed as input to sort and result obtained from sort will be passed to reducer to reduce the data and obtain the final output
 
